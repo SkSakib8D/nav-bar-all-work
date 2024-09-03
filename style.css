@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-port{
+    width: 1000px;
+    margin: 0 auto;
+}
+.top-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.logo{
+    color: rgb(from color r g b);
+    font-size: 30px;
+}
+
+nav{
+    padding-top: 30px;
+}
+nav>ul{
+display: flex;
+}
+nav>ul>li{
+    margin-right: 30px;
+    font-size: 20px;
+    color: black;
+    background-color: aquamarine;
+}
